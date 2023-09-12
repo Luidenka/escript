@@ -1,2 +1,2 @@
-# escript
-A Python-based Programming Language
+# EasyScript
+## A Python/JS-based Programming Language
